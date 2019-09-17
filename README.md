@@ -1,6 +1,6 @@
 # Set Up
 
-In case you have no installed awecli and pywren, here is the link to get your ready.
+In case you have not installed awecli and pywren, here is the link to get your ready.
 http://pywren.io/pages/gettingstarted.html
 
 
