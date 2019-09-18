@@ -1,3 +1,10 @@
+# Set Up
+
+In case you have not installed awecli and pywren, here is the link to get your ready.
+http://pywren.io/pages/gettingstarted.html
+
+
+
 # pywren examples
 
 This is a repository of pywren examples, showing how to run various
@@ -32,19 +39,6 @@ We can achieve up to 80 GB/sec read and 60 GB/sec write performance to S3 in thi
 benchmark example, based on our [original blog post](http://pywren.io/pywren_s3.html). We have
 notebooks that [show how to benchmark](benchmark_s3/s3_benchmark.ipynb) and then [how to measure scaling](benchmark_s3/s3_scaling.ipynb). [[code]](benchmark_s3/). 
 
-### Measuring Lambda's recycling
-[coming soon]
 
-### Running a parameter server
-[coming soon]
-
-### Large-scale reduction
-[coming soon]
-
-### Robust Kalman Filtering
-[coming soon]
-
-### Inverse problems with sweep
-[coming soon]
 
 
