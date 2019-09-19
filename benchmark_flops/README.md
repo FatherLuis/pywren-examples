@@ -9,7 +9,3 @@ number of workers
 * [flops_scaling.ipynb](flops_scaling.ipynb) varies the number of workers to track scaling. 
 
 
-![flops benchmark](flops_benchmark.gflops.png)
-
-![flops scaling](flops_scaling.flops.png)
-
