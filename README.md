@@ -1,7 +1,29 @@
 # Set Up
+In case you have not installed awecli and pywren.
 
-In case you have not installed awecli and pywren, here is the link to get your ready.
+$ pip install awscli
+
+$ pip install pywren
+
+You'll need an Amazon Web Service Account
+https://aws.amazon.com/
+
+Once the account has been created, you'll need to create access keys for an IAM user
+https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-configure.html
+
+Set up awscli on the Command Line
+https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-configure.html
+
+Set up Pywren on the Command Line
 http://pywren.io/pages/gettingstarted.html
+
+
+For more information on the Amazon Simple Storage Solution (Amazon S3)
+https://aws.amazon.com/s3/?nc=sn&loc=1
+
+Free Tier Information
+https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc
+
 
 
 
